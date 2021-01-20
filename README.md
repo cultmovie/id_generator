@@ -1,1 +1,1 @@
-# id_generator
+基于skynet的id生成器
